@@ -1,2 +1,2 @@
 # rust-lang-case
-a repo for rust code practice
+This repo is used for store some rust case.
